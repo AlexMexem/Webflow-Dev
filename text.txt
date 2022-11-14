@@ -1,1 +1,10 @@
 <script src="https://cdn.jsdelivr.net/gh/AlexMexem/Webflow-Dev/index.js" ></script>
+
+userimage
+username
+strategy
+link
+percent
+return
+tags
+chart
